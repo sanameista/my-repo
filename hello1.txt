@@ -13,3 +13,4 @@
 멋져
 
 backup
+backup-pull
